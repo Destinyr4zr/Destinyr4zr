@@ -1,4 +1,5 @@
-PHP: trainee(+) 📚 🐍
+PHP: trainee(+) 
+
 Python: junior(-)
 
 <!--
